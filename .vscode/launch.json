@@ -8,7 +8,8 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "${file}" // her seferinde değiştirmemek için.
+            "program": "${file}", // her seferinde değiştirmemek için.
+            "console": "terminal"
         }
     ]
 }
